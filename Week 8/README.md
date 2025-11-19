@@ -14,9 +14,15 @@ This project trains a deep learning model on the **CIFAR-10** dataset using **tr
 
 ---
 
+## Jira
+
+ - Commits shall use the following format: [ART-123] add tests
+
 ## 🛠 Requirements
 
 Install the dependencies with:
 
 ```bash
 pip install torch torchvision matplotlib tqdm
+
+
